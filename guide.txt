@@ -1,0 +1,5 @@
+1. pip install virtualenv
+2. virtualenv env
+3. .\env\Scripts\activate.ps1
+4. If error in step 3: Set-ExecutionPolicy unrestricted
+5.  
